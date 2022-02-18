@@ -311,6 +311,8 @@ figcaption {
   padding-left: 0px;
   opacity: 0.6;
   font-family: 'Noto Sans', sans-serif;
+  font-size: 12px;
+  text-align: left;
   text-decoration: none;
 }
 
@@ -579,8 +581,13 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #db8e12;
+  background-image: url('../images/IMG_9939.JPG');
+  background-position: 0px 0px;
+  background-size: cover;
   font-family: Montserrat, sans-serif;
   color: #fff;
+  background-clip: border-box;
+  -webkit-text-fill-color: inherit;
 }
 
 .intro-header.cc-subpage {
@@ -772,6 +779,7 @@ figcaption {
 .contact-heading {
   margin-top: 0px;
   margin-bottom: 15px;
+  color: #0430be;
   font-weight: 400;
 }
 
@@ -1443,6 +1451,7 @@ figcaption {
 }
 
 .heading-11 {
+  color: #0430be;
   text-align: center;
 }
 
@@ -1456,10 +1465,72 @@ figcaption {
 
 .text-block-3 {
   padding-bottom: 15px;
+  text-decoration: none;
 }
 
 .text-block-4 {
   padding-bottom: 15px;
+}
+
+.image-3 {
+  padding-right: 0px;
+  padding-left: 20px;
+}
+
+.image-4 {
+  padding-right: 20px;
+}
+
+.image-5 {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.image-6 {
+  padding-right: 0px;
+  padding-left: 20px;
+}
+
+.image-7 {
+  padding-right: 20px;
+}
+
+.image-8 {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.heading-12 {
+  color: #0430be;
+}
+
+.image-9 {
+  margin-left: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.image-10 {
+  padding-right: 80px;
+  padding-left: 80px;
+}
+
+.image-11 {
+  padding-right: 80px;
+  padding-left: 80px;
+}
+
+.image-12 {
+  margin-right: 0px;
+  margin-left: 0px;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.button-4 {
+  margin-left: 404px;
+  padding-left: 0px;
+  text-align: center;
 }
 
 @media screen and (max-width: 991px) {
